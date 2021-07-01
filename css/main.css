@@ -125,7 +125,11 @@ body {
 }
 
 .main__btn span {
-    word-spacing: 7px;
+    position: relative;
+    right: 2px;
+    top: 1px;
+    display: inline-block;
+    border: 10px solid transparent; border-left: 15px solid #96b600;
 }
 
     /* ==========Shop========== */
